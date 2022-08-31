@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 Sep 2021 17:25:55 at http://africave.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://africave.co/ -O1 "C:\Users\USER\Documents\500 level library\africave" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:29:02	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://secure.kota3chat.com/js/187659.js (from africave.co/)
+17:29:02	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://secure.kota3chat.com/187659.png (from africave.co/)
+17:29:02	Error: 	"Not Found" (404) at link africave.co/developer-signup (from africave.co/)
+17:29:06	Warning: 	Retry after error -4 (Connect Error) at link https://platform.twitter.com/widgets.js (from africave.co/)
+17:29:06	Error: 	"Not Found" (404) at link africave.co/company-signup (from africave.co/)
+17:29:06	Error: 	"Not Found" (404) at link africave.co/about (from africave.co/)
+17:29:06	Error: 	"Not Found" (404) at link africave.co/how-we-work (from africave.co/)
+17:29:06	Error: 	"Not Found" (404) at link africave.co/faq (from africave.co/)
+17:29:06	Error: 	"Not Found" (404) at link africave.co/terms-of-service (from africave.co/)
+17:29:06	Error: 	"Not Found" (404) at link africave.co/privacy-policy (from africave.co/)
+17:29:08	Error: 	"Not Found" (404) at link africave.co/css/fonts/aeonik-air-webfont.eot (from africave.co/css/fonts/stylesheet.css)
+17:29:08	Error: 	"Not Found" (404) at link africave.co/css/fonts/aeonik-air-webfont.eot? (from africave.co/css/fonts/stylesheet.css)
+17:29:08	Error: 	"Not Found" (404) at link africave.co/css/fonts/aeonik-air-webfont.woff2 (from africave.co/css/fonts/stylesheet.css)
+17:29:08	Error: 	"Not Found" (404) at link africave.co/css/fonts/aeonik-air-webfont.woff (from africave.co/css/fonts/stylesheet.css)
+17:29:08	Error: 	"Not Found" (404) at link africave.co/css/fonts/aeonik-air-webfont.ttf (from africave.co/css/fonts/stylesheet.css)
+17:29:08	Error: 	"Not Found" (404) at link africave.co/css/fonts/aeonik-air-webfont.svg (from africave.co/css/fonts/stylesheet.css)
+17:29:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://secure.kota3chat.com/js/187659.js (from africave.co/)
+17:29:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://secure.kota3chat.com/187659.png (from africave.co/)
+17:29:51	Warning: 	Retry after error -4 (Connect Error) at link https://platform.twitter.com/widgets.js (from africave.co/)
+17:29:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://secure.kota3chat.com/js/187659.js (from africave.co/)
+17:29:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://secure.kota3chat.com/187659.png (from africave.co/)
+17:30:12	Error: 	"Connect Error" (-4) after 2 retries at link https://platform.twitter.com/widgets.js (from africave.co/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 17 seconds : 91 links scanned, 68 files written (7899300 bytes overall) [7888084 bytes received at 30692 bytes/sec], 49439 bytes transferred using HTTP compression in 16 files, ratio 24%, 3.9 requests per connection
+(16 errors, 6 warnings, 0 messages)
